@@ -1,5 +1,6 @@
 def sum1(x, y):
-  return x + y
+  
+    return x + y
 
 
-sum1(2, 3)
+print(sum1(2, 3))
