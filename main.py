@@ -2,4 +2,4 @@ def sum1(x, y):
   return x + y
 
 
-sum1(x, y)
+sum1(2, 3)
