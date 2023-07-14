@@ -1,6 +1,1 @@
-def sum1(x, y):
-  
-    return x + y
-
-
-print(sum1(2, 3))
+print("hello this is ci/cd test")
